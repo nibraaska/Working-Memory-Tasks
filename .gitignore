@@ -10,6 +10,7 @@
 
 # IPython
 profile_default/
+__pycache__/
 ipython_config.py
 
 # Remove previous ipynb_checkpoints
